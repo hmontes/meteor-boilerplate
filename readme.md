@@ -2,17 +2,6 @@
 
 Este simple proyecto es un boilerplate diseñado en Meteor y React. La idea es poder ocupar rapidamente un Layout y sus paginas hechas en Flowrouter. Contiene un simple menu y viene por defecto con un sticky footer.
 
----------------------
-| Menu				|
----------------------
-| Cuerpo / Body		|
-|					|
-|					|
-|					|
----------------------
-| Footer			|
----------------------
-
 ## Motivación
 
 Volver a tener que hacer todo el diseño básico cada vez que existía una idea nueva se volvió tremendamente tedioso e inefectivo. Entonces la idea de este boilerplate es ahorrar los pasos de armar un layout, pages, hacerlo con un footer fijo y poder trabajar en un prototipo de manera más rapida y efectiva.
